@@ -1,4 +1,4 @@
-import { Box, Text, TextArea, TextAreaProps } from '@ignite-ui/react'
+import { Box, Text, TextArea, TextAreaProps } from '@stephany-ignite-ui/react'
 import { StoryObj } from '@storybook/react/'
 import { ReactElement, JSXElementConstructor, ReactNode, ReactPortal } from 'react'
 

@@ -1,4 +1,4 @@
-import { Avatar, AvatarProps } from "@ignite-ui/react"
+import { Avatar, AvatarProps } from "@stephany-ignite-ui/react"
 import { StoryObj } from "@storybook/react"
 
 export default {

@@ -1,4 +1,4 @@
-import { Box, Text, TextInput, TextInputProps } from '@ignite-ui/react'
+import { Box, Text, TextInput, TextInputProps } from '@stephany-ignite-ui/react'
 import { StoryObj } from '@storybook/react/'
 import { ReactElement, JSXElementConstructor, ReactNode, ReactPortal } from 'react'
 
