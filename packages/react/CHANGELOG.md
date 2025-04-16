@@ -1,5 +1,11 @@
 # @stephany-ignite-ui/react
 
+## 2.1.2
+
+### Patch Changes
+
+- Adjusting the depreciation notice
+
 ## 2.1.1
 
 ### Patch Changes
