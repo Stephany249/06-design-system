@@ -1,5 +1,11 @@
 # @stephany-ignite-ui/react
 
+## 2.2.0
+
+### Minor Changes
+
+- Add the toltip
+
 ## 2.1.2
 
 ### Patch Changes
