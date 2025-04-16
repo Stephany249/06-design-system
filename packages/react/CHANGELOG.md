@@ -1,5 +1,11 @@
 # @stephany-ignite-ui/react
 
+## 3.0.0
+
+### Major Changes
+
+- Add the toast
+
 ## 2.2.0
 
 ### Minor Changes

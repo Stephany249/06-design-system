@@ -1,5 +1,5 @@
 import * as Tooltip from '@radix-ui/react-tooltip'
-import { styled } from "../../styles";
+import { styled } from "../../styles"
 
 export const TooltipProvider = styled(Tooltip.Provider, {})
 
